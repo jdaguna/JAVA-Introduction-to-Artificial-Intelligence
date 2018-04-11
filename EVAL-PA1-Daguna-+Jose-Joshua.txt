@@ -1,0 +1,56 @@
+COGS 125 / CSE 175 :  Introduction to Artificial Intelligence
+PROGRAMMING ASSIGNMENT #1 EVALUATION
+
+
+Student:  Jose-Joshua Daguna
+
+
+*  The Uniform Cost Search algorithm works correctly in common cases.
+
+*  The Uniform Cost Search algorithm correctly handles unreachable goals.
+
+*  The Uniform Cost Search algorithm performs repeated state checking correctly.
+
+*  The Greedy Search algorithm returns an incorrect solution for some test cases.
+
+*  The Greedy Search algorithm correctly handles unreachable goals.
+
+*  The Greedy Search algorithm does not handle one-way streets correctly.
+
+*  The Greedy Search algorithm does not perform repeated state checking correctly.
+
+*  The A* Search algorithm works correctly in common cases.
+
+*  The A* Search algorithm correctly handles unreachable goals.
+
+*  The A* Search algorithm does not perform repeated state checking correctly.
+
+*  The code was well written and the use of comments made it easier to read and follow.
+
+*  The provided heuristic function is not admissible.  Specifically,
+   it uses a distance measure for the residual path cost, while these
+   path costs are to be measured in time.
+
+
+SCORE:  73 / 100
+
+
+-----
+
+
+Uniform Cost Search Works Correctly In Common Cases          10 / 10
+Uniform Cost Search Correctly Handles Unreachable Goals       5 /  5
+Uniform Cost Search Correctly Handles One-Way Streets         3 /  3
+Uniform Cost Search Correctly Does Repeated State Checking    2 /  2
+Greedy Search Works Correctly In Common Cases                10 / 15
+Greedy Search Correctly Handles Unreachable Goals             5 /  5
+Greedy Search Correctly Handles One-Way Streets               0 /  3
+Greedy Search Correctly Does Repeated State Checking          0 /  2
+A* Search Works Correctly In Common Cases                    15 / 15
+A* Search Correctly Handles Unreachable Goals                 5 /  5
+A* Search Correctly Handles One-Way Streets                   3 /  3
+A* Search Correctly Does Repeated State Checking              0 /  2
+Code Style & Comments                                        10 / 10
+Heuristic Function Admissibility                              0 / 10
+Heuristic Function Quality                                    5 / 10
+

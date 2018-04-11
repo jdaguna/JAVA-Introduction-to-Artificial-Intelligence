@@ -1,0 +1,25 @@
+COGS 125 / CSE 175 :  Introduction to Artificial Intelligence
+PROGRAMMING ASSIGNMENT #3 EVALUATION
+
+
+Student: Jose-Joshua Daguna
+
+
+*  Expected utility calculated correctly.
+
+*  Good heuristic function. Your program plays competitively.
+
+*  The code was well written and the use of comments made it easier to read
+   and follow.
+
+
+SCORE:  100 / 100
+
+
+-----
+
+
+Expected Utility Calculation                                 40 / 40
+Heuristic Function Correctness and Quality                   50 / 50
+Code Style & Comments                                        10 / 10
+

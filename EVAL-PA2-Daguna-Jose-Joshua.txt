@@ -1,0 +1,25 @@
+COGS 125 / CSE 175 :  Introduction to Artificial Intelligence
+PROGRAMMING ASSIGNMENT #2 EVALUATION
+
+
+Student: Jose-Joshua Daguna
+
+
+*  All unification procedures were correctly implemented.
+
+*  The code was well written and the use of comments made it easier to read
+   and follow.
+
+
+SCORE:  100 / 100
+
+
+-----
+
+
+Unify for Two Literals Implemented Correctly                 15 / 15
+Unify for Two Functions Implemented Correctly                15 / 15
+Unify for Two Terms Implemented Essentially Correctly        50 / 50
+Unify for Two Terms Includes Correct "Occur Check"           10 / 10
+Code Style & Comments                                        10 / 10
+

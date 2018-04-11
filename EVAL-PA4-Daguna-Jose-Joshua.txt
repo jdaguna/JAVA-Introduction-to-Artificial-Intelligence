@@ -1,0 +1,24 @@
+
+COGS 125 / CSE 175 :  Introduction to Artificial Intelligence
+PROGRAMMING ASSIGNMENT #4 EVALUATION
+
+
+Student:  Jose-Joshua Daguna
+
+
+*  The provided function correctly calculates the output delta value.
+
+*  The provided function correctly calculates the hidden delta value.
+
+
+SCORE:  100 / 100
+
+
+-----
+
+
+Calculation of Output Unit Delta Values is Correct           35 / 35
+Calculation of Hidden Unit Delta Values is Correct           35 / 35
+Code for Output Unit Calculations is Elegant and Compact     10 / 10
+Code for Hidden Unit Calculations is Elegant and Compact     10 / 10
+Code Style & Comments                                        10 / 10
